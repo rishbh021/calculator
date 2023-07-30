@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background:linear-gradient(to top,#00AAFF,#00ff6c);
+  backdrop-filter: blur(4px);
+  p{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color:#E3F2C1;
+    
+  }
+}
